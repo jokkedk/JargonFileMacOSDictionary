@@ -8,7 +8,7 @@
     <d:entry id="front_back_matter" d:title="Front/Back Matter">
         <h1>Jargon File for MacOS</h1>
         <p>This is the Jargon File converted to Apple Dictionary format by <a href="http://jokke.dk">Joakim Nygård</a>.
-        I have tried to convert, but there might be formatting problems and missing content compared to the source material maintained by <a href="http://www.catb.org/~esr/jargon/">Eric Raymond</a>. Use at your own discretion.</p>
+        There might be formatting problems and missing content compared to the source material maintained by <a href="http://www.catb.org/~esr/jargon/">Eric Raymond</a>. Use at your own discretion.</p>
 
         <h2>Table of Contents</h2>
         <ol type="I">
