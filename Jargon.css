@@ -1,0 +1,24 @@
+@charset "UTF-8";
+@namespace d url(http://www.apple.com/DTDs/DictionaryService-1.0.rng);
+
+p {
+    line-height:1.5;
+}
+.whitespace {
+    white-space: pre;
+}
+
+table {
+    border-collapse: collapse;
+}
+table, th, td {
+    border: 1px solid black;
+}
+td, th {
+    padding:0.5em;
+    text-align: left;
+}
+
+pre, code {
+    font-size: 1.2rem;
+}

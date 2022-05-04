@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CFBundleDevelopmentRegion</key>
+	<string>English</string>
+	<key>CFBundleDisplayName</key>
+	<string>The Jargon File</string>
+	<key>CFBundleIdentifier</key>
+	<string>com.scienta.dictionary.JargonFile</string>
+	<key>CFBundleName</key>
+	<string>Jargon File</string>
+	<key>CFBundleShortVersionString</key>
+	<string>4.4.7</string>
+	<key>DCSDictionaryCopyright</key>
+	<string>The Jargon File is in the public domain, to be freely used, shared, and modified.&lt;br/&gt;Other versions available online from http://www.catb.org/~esr/jargon/&lt;br/&gt;&lt;br/&gt;Apple Dictionary conversion by Joakim Nygård, http://jokke.dk</string>
+	<key>DCSDictionaryManufacturerName</key>
+	<string>.</string>
+	<key>DCSDictionaryXSL</key>
+	<string></string>
+    <key>DCSDictionaryUseSystemAppearance</key>
+	<true/>
+    <key>DCSDictionaryFrontMatterReferenceID</key>
+    <string>front_back_matter</string>
+
+</dict>
+</plist>
