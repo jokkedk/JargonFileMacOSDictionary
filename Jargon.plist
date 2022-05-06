@@ -7,7 +7,7 @@
 	<key>CFBundleDisplayName</key>
 	<string>The Jargon File</string>
 	<key>CFBundleIdentifier</key>
-	<string>com.scienta.dictionary.JargonFile</string>
+	<string>dk.scienta.dictionary.JargonFile</string>
 	<key>CFBundleName</key>
 	<string>Jargon File</string>
 	<key>CFBundleShortVersionString</key>
