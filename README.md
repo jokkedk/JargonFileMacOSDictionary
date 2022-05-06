@@ -1,5 +1,5 @@
 # JargonFileDictionaryService
-XSL file for converting the Jargon File to DictionaryService format
+XSL file for converting the Jargon File to DictionaryService format. Apologies for the ugly XSL...
 
 To convert, [download the original](http://www.catb.org/~esr/jargon/) `jargon.xml` file then add the following entity declarations to make the parser happy
 
